@@ -35,11 +35,14 @@ h2{
 	color: blue;
 }
 .important {
-  color: green;
+  color: purple;
 }
 .unimportant {
   color: green;
 }
 .cat-climate {
   background-color: blue;
+}
+h3{
+  color: purple;
 }
